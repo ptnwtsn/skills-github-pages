@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+computers: what a great, big thing
 ---
 
